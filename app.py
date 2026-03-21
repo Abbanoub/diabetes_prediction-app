@@ -214,7 +214,7 @@ with col1:
 with col2:
     heart_disease = st.selectbox("Heart Disease", ["No", "Yes"])
     smoking_history = st.selectbox("Smoking History", ["never", "former", "current", "not current", "ever", "unknown"])
-    hba1c = st.slider("HbA1c Level (%)", min_value=3.5, max_value=9.0, value=5.5, step=0.1)
+    hba1c = st.slider("Hemoglobin A1c (HbA1c) Level (%)", min_value=3.5, max_value=9.0, value=5.5, step=0.1)
     blood_glucose = st.slider("Blood Glucose Level (mg/dL)", min_value=80, max_value=300, value=100)
 
 st.markdown("---")
