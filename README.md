@@ -5,6 +5,8 @@ A machine learning project to predict diabetes risk based on patient health data
 ## Dataset
 - 100,000 patient records
 - Source: [Kaggle - Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset)
+- App link to try : https://diabetesprediction-app-zkre8hlkiufrjyhwtyiike.streamlit.app/
+
 
 ## Results
 | Metric | Value |
@@ -40,3 +42,4 @@ streamlit run app.py
 
 ---
 *Built by Abanoub George — Final Year Engineering Student*
+
